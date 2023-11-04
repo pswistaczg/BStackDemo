@@ -1,0 +1,15 @@
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\CoreDriver.deps.json
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\CoreDriver.dll
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\bin\Debug\net7.0\CoreDriver.pdb
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.csproj.AssemblyReference.cache
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.AssemblyInfoInputs.cache
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.AssemblyInfo.cs
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.csproj.CoreCompileInputs.cache
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.dll
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\refint\CoreDriver.dll
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\CoreDriver.pdb
+C:\Project\C#\Udemy_selenium\BStackDemo\CoreDriver\obj\Debug\net7.0\ref\CoreDriver.dll
